@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gu22:dossierConsultation xmlns:gu22="http://www.reseaux-et-canalisations.gouv.fr/schema-teleservice/2.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ie="http://xml.insee.fr/schema" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gsr="http://www.isotc211.org/2005/gsr" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gss="http://www.isotc211.org/2005/gss">
+    <gu22:dtDictConjointes>
+        <gu22:noConsultationDuTeleservice>20180209DEMO</gu22:noConsultationDuTeleservice>
+        <gu22:dateDeLaDeclaration>2018-02-05T16:56:11.000+01:00</gu22:dateDeLaDeclaration>
+        <gu22:partieDT>
+            <gu22:noConsultationDuTeleservice>20180209DEMO</gu22:noConsultationDuTeleservice>
+            <gu22:noAffaireDuResponsableDuProjet>17010</gu22:noAffaireDuResponsableDuProjet>
+            <gu22:dateDeLaDeclaration>2018-02-05T16:56:11.000+01:00</gu22:dateDeLaDeclaration>
+            <gu22:typeEntite>PERSONNE_MORALE</gu22:typeEntite>
+            <gu22:declarationConjointeDTDICT>true</gu22:declarationConjointeDTDICT>
+            <gu22:responsableDuProjet>
+                <gu22:denomination>CAHM</gu22:denomination>
+                <gu22:pays>FR</gu22:pays>
+            </gu22:responsableDuProjet>
+            <gu22:representantDuResponsableDeProjet>
+                <gu22:denomination>CAHM</gu22:denomination>
+                <gu22:numero>22</gu22:numero>
+                <gu22:voie>Avenue du troisième millénaire</gu22:voie>
+                <gu22:codePostal>34630</gu22:codePostal>
+                <gu22:commune>ST THIBERY</gu22:commune>
+                <gu22:personneAcontacter>test</gu22:personneAcontacter>
+                <gu22:tel>0499474849</gu22:tel>
+            </gu22:representantDuResponsableDeProjet>
+            <gu22:emplacementDuProjet>
+                <gu22:adresse>r richelieu</gu22:adresse>
+                <gu22:CP>34300</gu22:CP>
+                <gu22:communePrincipale>AGDE</gu22:communePrincipale>
+                <gu22:codeINSEE>34003</gu22:codeINSEE>
+                <gu22:nombreDeCommunes>1</gu22:nombreDeCommunes>
+                <gu22:listeDesEmplacementsDesCommunesConcernees>
+                    <gu22:emplacementDeLaCommuneConcernee>
+                        <gu22:nomDeLaCommune>AGDE</gu22:nomDeLaCommune>
+                        <gu22:codeCommune>34300</gu22:codeCommune>
+                        <gu22:codeINSEE>34003</gu22:codeINSEE>
+                    </gu22:emplacementDeLaCommuneConcernee>
+                </gu22:listeDesEmplacementsDesCommunesConcernees>
+            </gu22:emplacementDuProjet>
+            <gu22:emprise>
+                <gu22:geometrie srsName="urn:ogc:def:crs:EPSG::4326" srsDimension="2" gml:id="DTsurface0">
+                    <gml:surfaceMembers>
+                        <gml:Polygon gml:id="DTpol0">
+                            <gml:exterior>
+<gml:LinearRing>
+    <gml:coordinates>3.9229418429773966 43.63558011199024 3.9230920466821653 43.634151348788514 3.924379507009091 43.63430665078181 3.9239932689110404 43.63609259486082 3.9229418429773966 43.63558011199024</gml:coordinates>
+</gml:LinearRing>
+                            </gml:exterior>
+                        </gml:Polygon>
+                    </gml:surfaceMembers>
+                </gu22:geometrie>
+                <gu22:surface>1675.108192502972</gu22:surface>
+            </gu22:emprise>
+            <gu22:souhaitsPourLeRecepisse>
+                <gu22:souhaiteRecevoirLeRecepisse>false</gu22:souhaiteRecevoirLeRecepisse>
+            </gu22:souhaitsPourLeRecepisse>
+            <gu22:projetEtSonCalendrier>
+                <gu22:natureDesTravaux>SOU</gu22:natureDesTravaux>
+                <gu22:natureDesTravaux>RBL</gu22:natureDesTravaux>
+                <gu22:natureDesTravaux>TER</gu22:natureDesTravaux>
+                <gu22:decrivezLeProjet>Réalisation d'un réseau Eaux Uséees</gu22:decrivezLeProjet>
+                <gu22:emploiDeTechniquesSansTranchees>false</gu22:emploiDeTechniquesSansTranchees>
+                <gu22:souhaitLesPlansDesReseauxElectriqueAeriens>false</gu22:souhaitLesPlansDesReseauxElectriqueAeriens>
+                <gu22:datePrevuePourLeCommencementDesTravaux>2018-02-15+01:00</gu22:datePrevuePourLeCommencementDesTravaux>
+                <gu22:dureeDuChantierEnJours>25</gu22:dureeDuChantierEnJours>
+            </gu22:projetEtSonCalendrier>
+            <gu22:signatureDuResponsableDuProjetOuDeSonRepresentant>
+                <gu22:nomDuSignataire>CAHM</gu22:nomDuSignataire>
+                <gu22:nombrePagesJointes>1</gu22:nombrePagesJointes>
+            </gu22:signatureDuResponsableDuProjetOuDeSonRepresentant>
+        </gu22:partieDT>
+        <gu22:partieDICT>
+            <gu22:noConsultationDuTeleservice>20180209DEMO</gu22:noConsultationDuTeleservice>
+            <gu22:noAffaireDeLexecutantDesTravaux>17010</gu22:noAffaireDeLexecutantDesTravaux>
+            <gu22:dateDeLaDeclaration>2018-02-05T16:56:11.000+01:00</gu22:dateDeLaDeclaration>
+            <gu22:natureDeLaDeclaration>INITIAL</gu22:natureDeLaDeclaration>
+            <gu22:executantDesTravaux>
+                <gu22:denomination>SAS</gu22:denomination>
+                <gu22:numero>13</gu22:numero>
+                <gu22:voie>rue toto</gu22:voie>
+                <gu22:codePostal>34300</gu22:codePostal>
+                <gu22:commune>agde</gu22:commune>
+                <gu22:pays>FR</gu22:pays>
+                <gu22:noSiret>0000000000</gu22:noSiret>
+                <gu22:nomDeLaPersonneAContacter>toto</gu22:nomDeLaPersonneAContacter>
+                <gu22:tel>0600000000</gu22:tel>
+                <gu22:fax>0600000000</gu22:fax>
+                <gu22:courriel>babef.eric@gmail.com</gu22:courriel>
+            </gu22:executantDesTravaux>
+            <gu22:emplacementDesTravaux>
+                <gu22:adresse>r richelieu</gu22:adresse>
+                <gu22:CP>34300</gu22:CP>
+                <gu22:communePrincipale>AGDE</gu22:communePrincipale>
+                <gu22:codeINSEE>34003</gu22:codeINSEE>
+                <gu22:nombreDeCommunes>1</gu22:nombreDeCommunes>
+                <gu22:listeDesEmplacementsDesCommunesConcernees>
+                    <gu22:emplacementDeLaCommuneConcernee>
+                        <gu22:nomDeLaCommune>AGDE</gu22:nomDeLaCommune>
+                        <gu22:codeCommune>34300</gu22:codeCommune>
+                        <gu22:codeINSEE>34003</gu22:codeINSEE>
+                    </gu22:emplacementDeLaCommuneConcernee>
+                </gu22:listeDesEmplacementsDesCommunesConcernees>
+            </gu22:emplacementDesTravaux>
+            <gu22:emprise>
+                <gu22:geometrie srsName="urn:ogc:def:crs:EPSG::4326" srsDimension="2" gml:id="DICTsurface0">
+                    <gml:surfaceMembers>
+                        <gml:Polygon gml:id="DICTpol0">
+                            <gml:exterior>
+<gml:LinearRing>
+    <gml:coordinates>3.9229418429773966 43.63558011199024 3.9230920466821653 43.634151348788514 3.924379507009091 43.63430665078181 3.9239932689110404 43.63609259486082 3.9229418429773966 43.63558011199024</gml:coordinates>
+</gml:LinearRing>
+                            </gml:exterior>
+                        </gml:Polygon>
+                    </gml:surfaceMembers>
+                </gu22:geometrie>
+                <gu22:surface>1675.108192502972</gu22:surface>
+            </gu22:emprise>
+            <gu22:souhaitsPourLeRecepisse>
+                <gu22:modeReceptionElectronique>
+                    <gu22:tailleDesPlans>A4</gu22:tailleDesPlans>
+                    <gu22:couleurDesPlans>true</gu22:couleurDesPlans>
+                    <gu22:souhaitDePlansVectoriels>false</gu22:souhaitDePlansVectoriels>
+                </gu22:modeReceptionElectronique>
+            </gu22:souhaitsPourLeRecepisse>
+            <gu22:travauxEtLeurCalendrier>
+                <gu22:natureDesTravaux>SOU</gu22:natureDesTravaux>
+                <gu22:natureDesTravaux>RBL</gu22:natureDesTravaux>
+                <gu22:natureDesTravaux>TER</gu22:natureDesTravaux>
+                <gu22:decrivezLesTravaux>Réalisation d'un réseau Eaux Uséees</gu22:decrivezLesTravaux>
+                <gu22:techniquesUtilisees>VIB</gu22:techniquesUtilisees>
+                <gu22:techniquesUtilisees>PEL</gu22:techniquesUtilisees>
+                <gu22:techniquesUtilisees>ENG</gu22:techniquesUtilisees>
+                <gu22:profondeurMaxDExcavation>150</gu22:profondeurMaxDExcavation>
+                <gu22:modificationProfilTerrain>false</gu22:modificationProfilTerrain>
+                <gu22:communicationResultatsInvestigations>false</gu22:communicationResultatsInvestigations>
+                <gu22:souhaitLesPlansDesReseauxElectriqueAeriens>false</gu22:souhaitLesPlansDesReseauxElectriqueAeriens>
+                <gu22:datePrevuePourLeCommencementDesTravaux>2018-02-15+01:00</gu22:datePrevuePourLeCommencementDesTravaux>
+                <gu22:dureeDuChantierEnJours>25</gu22:dureeDuChantierEnJours>
+            </gu22:travauxEtLeurCalendrier>
+            <gu22:signatureDeLExecutantDesTravauxOuDeSonRepresentant>
+                <gu22:nomDuSignataire>toto</gu22:nomDuSignataire>
+                <gu22:nombrePagesJointes>1</gu22:nombrePagesJointes>
+            </gu22:signatureDeLExecutantDesTravauxOuDeSonRepresentant>
+        </gu22:partieDICT>
+        <gu22:nomDuSignataire>toto</gu22:nomDuSignataire>
+        <gu22:nombrePagesJointes>1</gu22:nombrePagesJointes>
+    </gu22:dtDictConjointes>
+    <gu22:listeDesOuvrages>
+        
+    </gu22:listeDesOuvrages>
+    <gu22:listeDesREADE/>
+</gu22:dossierConsultation>
